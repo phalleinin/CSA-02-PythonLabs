@@ -6,7 +6,7 @@
 # "a-z" ➞ "abcdefghijklmnopqrstuvwxyz"
 # "h-o" ➞ "hijklmno"
 # "Q-Z" ➞ "QRSTUVWXYZ"
-# "J-J" ➞ "J"
+
 # Notes a hyphen will separate the two letters in the string.
 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
